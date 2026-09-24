@@ -1,0 +1,84 @@
+LLY | Lab 10 | FY2026-2030 | USD millions except per-share values
+Annual teaching scenario; discount origin 2025-12-31; information checked 2026-09-24.
+
+INCOME STATEMENT (D&A already included in operating expenses)
+USD millions                                  2026          2027          2028          2029          2030
+Revenue                                  86,000.00    107,500.00    129,000.00    148,350.00    163,185.00
+Cogs                                     13,760.00     16,662.50     19,350.00     22,252.50     25,293.68
+Gross Profit                             72,240.00     90,837.50    109,650.00    126,097.50    137,891.32
+Sga                                      14,448.00     17,259.12     20,285.25     22,697.55     24,820.44
+Rd                                       17,200.00     21,500.00     25,800.00     29,670.00     32,637.00
+Iprd                                      5,000.00      4,000.00      4,000.00      4,000.00      4,000.00
+Operating Income                         35,592.00     48,078.38     59,564.75     69,729.95     76,433.89
+Interest                                  1,487.61      1,925.11      1,925.11      1,925.11      1,925.11
+Pretax                                   34,104.39     46,153.27     57,639.64     67,804.85     74,508.78
+Tax                                       7,820.88     10,030.65     12,327.93     14,360.97     15,701.76
+Net Income                               26,283.52     36,122.62     45,311.72     53,443.88     58,807.03
+
+BALANCE SHEET
+USD millions                                  2026          2027          2028          2029          2030
+Cash                                     14,718.90     31,221.20     56,177.54     89,367.89    129,427.80
+Ar                                       23,433.31     29,291.64     35,149.97     40,422.47     44,464.71
+Inventory                                15,079.45     17,347.26     19,350.00     21,338.01     22,868.25
+Other Current Assets                     22,241.86     27,802.32     33,362.79     38,367.20     42,203.92
+Ppe                                      34,127.75     44,638.81     55,704.09     66,639.80     76,661.67
+Intangibles                              15,838.00     15,155.00     14,472.00     13,789.00     13,106.00
+Other Assets                             25,651.00     25,651.00     25,651.00     25,651.00     25,651.00
+Total assets                            151,090.27    191,107.23    239,867.39    295,575.37    354,383.36
+Debt                                     55,003.00     55,003.00     55,003.00     55,003.00     55,003.00
+Revolver                                      0.00          0.00          0.00          0.00          0.00
+Ap                                        6,696.98      8,109.63      9,417.63     10,830.27     12,310.41
+Rebates                                  22,934.56     28,668.21     34,401.85     39,562.12     43,518.34
+Other Current Liabilities                14,292.21     17,865.26     21,438.32     24,654.06     27,119.47
+Other Liabilities                         9,845.00      9,845.00      9,845.00      9,845.00      9,845.00
+Equity                                   42,318.52     71,616.13    109,761.60    155,680.91    206,587.15
+Total liabilities and equity            151,090.27    191,107.23    239,867.39    295,575.37    354,383.36
+
+CASH FLOW STATEMENT AND FCFE (outflow lines shown as positive uses)
+USD millions                                  2026          2027          2028          2029          2030
+Net Income                               26,283.52     36,122.62     45,311.72     53,443.88     58,807.03
+Depreciation                              1,727.25      2,388.94      3,124.72      3,899.29      4,664.79
+Amortization                                683.00        683.00        683.00        683.00        683.00
+Iprd                                      5,000.00      4,000.00      4,000.00      4,000.00      4,000.00
+Delta Wc                                  2,062.87      2,967.26      2,806.83      2,476.26      1,507.45
+Cfo                                      31,630.90     40,227.30     50,312.60     59,549.90     66,647.36
+Capex                                    11,180.00     12,900.00     14,190.00     14,835.00     14,686.65
+Acquisitions                             10,000.00          0.00          0.00          0.00          0.00
+Cfi                                     -26,180.00    -16,900.00    -18,190.00    -18,835.00    -18,686.65
+New Debt                                 12,500.00          0.00          0.00          0.00          0.00
+Draw                                          0.00          0.00          0.00          0.00          0.00
+Revolver Repayment                            0.00          0.00          0.00          0.00          0.00
+Dividends                                 6,500.00      6,825.00      7,166.25      7,524.56      7,900.79
+Buybacks                                  4,000.00          0.00          0.00          0.00          0.00
+Cff                                       2,000.00     -6,825.00     -7,166.25     -7,524.56     -7,900.79
+Cash Change                               7,450.90     16,502.30     24,956.35     33,190.34     40,059.92
+Cash                                     14,718.90     31,221.20     56,177.54     89,367.89    129,427.80
+Fcfe                                     17,950.90     23,327.30     32,122.60     40,714.90     47,960.71
+
+CHECK BLOCK: every gap must be zero; cash floor 5,000
+USD millions                                  2026          2027          2028          2029          2030
+Assets - liabilities - equity                 0.00          0.00          0.00          0.00          0.00
+Cash roll-forward gap                         0.00          0.00          0.00          0.00          0.00
+Cash flow statement gap                       0.00          0.00          0.00          0.00          0.00
+PP&E roll-forward gap                         0.00          0.00          0.00          0.00          0.00
+Intangibles roll-forward gap                  0.00          0.00          0.00          0.00          0.00
+Debt roll-forward gap                         0.00          0.00          0.00          0.00          0.00
+Revolver roll-forward gap                     0.00          0.00          0.00          0.00          0.00
+Equity roll-forward gap                       0.00          0.00          0.00          0.00          0.00
+Income statement gap                          0.00          0.00          0.00          0.00          0.00
+Working capital link gap                      0.00          0.00          0.00          0.00          0.00
+CFO reconciliation gap                        0.00          0.00          0.00          0.00          0.00
+CFI reconciliation gap                        0.00          0.00          0.00          0.00          0.00
+FCFE reconciliation gap                       0.00          0.00          0.00          0.00          0.00
+Cash floor shortfall                          0.00          0.00          0.00          0.00          0.00
+Revolver limit breach                         0.00          0.00          0.00          0.00          0.00
+equity: 526,579.573970
+per_share: 589.212906
+terminal_share: 0.772895
+pv_explicit: 117,320.594885
+pv_terminal: 406,990.979085
+opening_excess_cash: 2,268.000000
+Model: $589.21/share; market: $1,188.87 on 2026-09-24.
+Same fixed diluted share proxy: 893.7 million; implied market equity $1,062,493.12 million.
+Timing differs: course annual value is not a September 24 mark-to-market valuation.
+Question: what growth, research productivity, and reinvestment would reconcile the gap?

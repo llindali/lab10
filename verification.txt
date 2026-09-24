@@ -1,0 +1,18 @@
+test_capex_changes_cash_and_ppe_without_instant_expense (test_proforma.ModelTests.test_capex_changes_cash_and_ppe_without_instant_expense) ... ok
+test_corrupted_cash_flow_link_refuses (test_proforma.ModelTests.test_corrupted_cash_flow_link_refuses) ... ok
+test_frozen_cash_refuses_value (test_proforma.ModelTests.test_frozen_cash_refuses_value) ... ok
+test_funding_shortfall_refuses_even_if_balanced (test_proforma.ModelTests.test_funding_shortfall_refuses_even_if_balanced) ... ok
+test_negative_terminal_cash_flow_refuses (test_proforma.ModelTests.test_negative_terminal_cash_flow_refuses) ... ok
+test_nonfinite_values_and_bad_discount_rates_refuse (test_proforma.ModelTests.test_nonfinite_values_and_bad_discount_rates_refuse) ... ok
+test_opening_and_five_years_balance (test_proforma.ModelTests.test_opening_and_five_years_balance) ... ok
+test_rd_cost_flows_to_earnings_cash_and_value (test_proforma.ModelTests.test_rd_cost_flows_to_earnings_cash_and_value) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK
+
+Deliberate refusal demonstrations:
+Frozen FY2026 cash: FY2026 Assets - liabilities - equity: -7,450.8995
+100%-of-revenue capex: FY2026 Cash floor shortfall: -60,101.1005
+R&D sensitivity: 20% base = 589.21/share; 21% = 572.64/share; change = -16.57/share
