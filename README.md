@@ -2,7 +2,7 @@
 
 **Question: What are five years of Eli Lilly's statements worth, built from assumptions I can defend?**
 
-The proposed FY2026-2030 base case produces **$589.21 per diluted share**, with all five years balancing and cash above the $5,000 million floor. This is an annual course scenario, not an investment recommendation. **Student completion is still required:** two personal filing checks, reasons in Linda's own words, the real partner review, and reflection. See [student_completion.md](student_completion.md).
+The proposed FY2026-2030 base case produces **$589.21 per diluted share**, with all five years balancing and cash above the $5,000 million floor. This is an annual course scenario, not an investment recommendation. Written explanations, reflection drafts, two AI filing checks and a simulated review are prepared in [student_completion.md](student_completion.md). Linda's personal filing checks, ownership of the explanations and real partner exchange remain unrecorded.
 
 ## Run and review
 
@@ -22,7 +22,7 @@ python -m unittest -v
 | [output.txt](output.txt) | Full saved income statements, balance sheets, cash flows, checks and valuation |
 | [test_proforma.py](test_proforma.py) | Eight tests covering accounting, sensitivity, funding failure and valuation refusal |
 | [verification.txt](verification.txt) | Test results, deliberate failure messages, and R&D sensitivity |
-| [student_completion.md](student_completion.md) | Exact human inputs still needed before final submission |
+| [student_completion.md](student_completion.md) | Source checks, proposed explanations and reflections, simulated review, and remaining human activities |
 
 ## Reopen and rerun: Lab 09 prerequisite
 
@@ -85,17 +85,17 @@ If a later scenario produces negative FCFE, retain it in the statements and prin
 
 The [growth discussion](history.md#reported-versus-organic-growth) explains organic growth, Lilly's volume/price/FX disclosures, and ABG's 1.8% versus 4.7%. No separate consistent Lilly organic-growth series was identified, so none is invented.
 
-The real partner attack and Linda's two-sentence response belong directly below the assumption table. Linda's challenge to her partner must also be specific and recorded. The AI practice question is preparation only. Linda must also explain which label she would defend longest and which filing number surprised her. These activities remain pending in [student_completion.md](student_completion.md).
+An explicitly simulated inventory challenge and two-sentence answer appear directly below the assumption table. A proposed reciprocal ABG challenge, company-specific explanation, organic-growth answer and first-person reflection drafts are provided in [student_completion.md](student_completion.md). These supply written preparation, not evidence of a real partner exchange or Linda's personal experience.
 
 ## Rubric coverage and checkout
 
 | Criterion, 5 points each | Evidence and remaining work |
 |---|---|
-| History and sources | Three-year grid with sources and ratios complete; Linda's two personal checks pending. FY2025 parent-only equity is not separately disaggregated; consolidated equity is verified. |
+| History and sources | Three-year grid, sources, ratios and two explicit AI checks complete; Linda's personal checks unrecorded. FY2025 parent-only equity is not separately disaggregated; consolidated equity is verified. |
 | Assumptions and labels | All forecast inputs labeled with proposed reasons; Linda's own wording pending. |
 | Statements and checks | Five balanced years, full cash flows, per-share value and deliberate refusal tests complete. |
 | Personalization | R&D, acquired IPR&D and rebate financing modeled; R&D sensitivity verified. Linda's explanation to a partner pending. |
-| Partner review | Real attack, two-sentence response and Linda's reciprocal attack pending. |
+| Partner review | Simulated attack, two-sentence draft answer and proposed reciprocal ABG challenge prepared; real partner review unrecorded. |
 
 No full-score claim is made while student activities are pending. Submit individual GitHub links to this README, history, assumptions, Python model, and supporting output/tests as needed. AI assisted with research, implementation, verification and draft explanations.
 

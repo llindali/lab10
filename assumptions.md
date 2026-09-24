@@ -41,10 +41,12 @@ Each row below has the requested three columns; the assumption name is included 
 | Add opening excess cash 2,268 once | Judgment | 7,268 cash less the 5,000 buffer. Do not add future accumulated cash or subtract debt again from already-levered FCFE. Noncash investments remain in the operating asset base with no separate value credit. |
 | Negative explicit FCFE: retain in statements, use zero in lab valuation; nonpositive terminal FCFE: refuse | Judgment (course convention) | Follow the lab's instruction to value only positive cash flows. This would be optimistic versus a conventional DCF that deducts funding deficits; it is inactive in the positive base case. A negative perpetuity is not a defensible going-concern terminal estimate. |
 
-## Partner attack and two-sentence answer
+## Simulated review and two-sentence draft answer
 
-**Pending real student input.** Partner name/date: pending. Assumption challenged: pending. Partner's exact question: pending. Linda's two-sentence answer and evidence that would change the judgment: pending.
+**AI simulation, not a completed classmate exchange.** Judgment challenged: ending inventory days decline from 453.91 historically to 330 by 2030.
 
-Linda's specific challenge to the partner's company/model, and the partner's response: pending. No AI-created exchange is represented as a completed partner review.
+**Challenge:** Why should inventory fall to 330 days while Lilly is expanding production, and what evidence would make you retain approximately 454 days instead?
 
-For preparation only, an AI practice question is: "Why should inventory fall to 330 days while Lilly is expanding production, and what evidence would make you retain 454 days instead?" Use the real partner's challenge for submission.
+**Draft answer (two sentences):** I use a gradual decline to 330 days as a judgment that production will convert to sales more efficiently, while recognizing that the 2025 filing's 8,183 million of work in process makes an immediate normalization difficult to defend. I would retain a higher inventory-days assumption if later filings showed work in process continuing to grow faster than cost of sales or stock failing to convert into sales, and I would rerun cash funding and valuation rather than plug cash.
+
+Evidence: [FY2025 10-K, Note 6, p.70](https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm). The filing supports the historical observation; it does not verify the forecast or prove that this discussion happened. A proposed reciprocal challenge and reflection drafts are in [student_completion.md](student_completion.md).
