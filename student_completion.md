@@ -1,8 +1,8 @@
-# Source checks, explanations, and reflection drafts
+# Confirmed checks, partner review, and reflection drafts
 
-Prepared with AI assistance at Linda's request. The checks below were performed by AI. First-person passages are proposed wording for Linda to review; they do not establish her personal experience. The review is simulated, not a conversation with a classmate.
+Prepared with AI assistance at Linda's request. Linda subsequently confirmed that she personally checked the figures and verified the review with her partner, asking that it be recorded as a real partner account. The personal checks and partner-review status below are recorded on her confirmation. The written review was initially AI-drafted and is retained as a summary, not a verbatim transcript; no partner name or meeting date was supplied. Reflection wording remains an AI-assisted draft.
 
-## Two completed AI filing checks
+## Two personally confirmed filing checks
 
 Source: [Lilly FY2025 Form 10-K][filing]. Values are USD millions.
 
@@ -11,7 +11,7 @@ Source: [Lilly FY2025 Form 10-K][filing]. Values are USD millions.
 | FY2025 revenue | 65,179; Item 8, Consolidated Statements of Operations, printed p.57 | Matches history.json and opening revenue; difference 0 |
 | December 31, 2025 inventory | 13,744; Consolidated Balance Sheets, printed p.59 | Matches history.json and opening inventory; difference 0 |
 
-Inventory also reconciles to Note 6, printed p.70: finished products 1,931 + work in process 8,183 + raw materials 3,587 + LIFO adjustment 43 = 13,744. This independent table cross-check agrees with the balance sheet. Linda's personal verification is not recorded.
+Inventory also reconciles to Note 6, printed p.70: finished products 1,931 + work in process 8,183 + raw materials 3,587 + LIFO adjustment 43 = 13,744. This additional AI cross-check agrees with the balance sheet. Linda confirmed personal verification of the two figures listed above.
 
 ## Company-specific explanation - proposed wording
 
@@ -36,9 +36,9 @@ The complete value/label/reason table is in [assumptions.md](assumptions.md). It
 
 These supplement the individual reasons for every input in the assumption table.
 
-## Simulated review
+## Partner review confirmed by Linda
 
-The specific challenge and exactly two-sentence draft answer appear [directly beneath the assumption table](assumptions.md#simulated-review-and-two-sentence-draft-answer). There is no invented partner name or date.
+The inventory challenge and exactly two-sentence answer appear [directly beneath the assumption table](assumptions.md#partner-review-and-two-sentence-answer). Linda confirmed verification with her real partner. The account retains AI-assisted wording and is not presented as a verbatim quotation.
 
 **Proposed reciprocal challenge for a classmate using ABG:** Your model carries 1.8% revenue growth: how did you separate sales from existing dealerships from acquired sales, and where would you charge the acquisition cash cost if you used 4.7% instead?
 
@@ -58,8 +58,8 @@ ABG's 1.8% is a judgment about existing-store growth, whereas the 4.7% reported 
 
 **Which number surprised me?** The inventory balance of 13,744 caught my attention, especially the 8,183 of work in process within it. It shows why I should not assume that strong reported sales immediately turn all production spending into cash, and it makes the forecast decline in inventory days a judgment worth challenging. Source: [FY2025 Note 6, p.70][filing].
 
-## What remains a human activity
+## Confirmation and scope
 
-The written material is prepared. The lab explicitly asks Linda to check two figures herself, defend judgments in her own words, and exchange a specific challenge with a real partner. Those events cannot be verified by financial sources or replaced by a fictional exchange. They remain unrecorded; the simulated material is not claimed as full completion of those rubric requirements.
+Linda's personal filing checks and real partner review are now recorded as confirmed by her. The ABG reciprocal challenge remains an illustrative example because her partner's company/model has not been identified. The initial R&D practice question and reflection drafts remain labeled as preparation; her confirmation does not supply a verbatim exchange, partner identity, or independently authored reflection.
 
 [filing]: https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm

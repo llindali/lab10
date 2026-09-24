@@ -1,6 +1,6 @@
 # Three-year history, ratios, and source ledger
 
-USD millions unless stated otherwise. Each year uses its own 10-K vintage; later filings can round or reclassify comparative amounts. All figures below were checked by AI against the linked filing text on September 24, 2026. This does not count as Linda's two required personal checks.
+USD millions unless stated otherwise. Each year uses its own 10-K vintage; later filings can round or reclassify comparative amounts. All figures below were checked by AI against the linked filing text on September 24, 2026. Linda subsequently confirmed personal verification of the two figures recorded below.
 
 | Filing | Filed | Where to verify |
 |---|---|---|
@@ -103,7 +103,7 @@ All lines below come from the [FY2025 balance sheet, p.59][2025]. Grouping is ar
 
 The local file named `Eli_Lilly_2025_10-K_filed_2026-02-12.pdf` actually identifies FY2024 on its cover. The local file named `Eli_Lilly_2024_10-K_filed_2025-02-19.pdf` identifies FY2023. The SEC links above, whose fiscal periods were checked, govern this submission. The mislabeled PDFs were not republished.
 
-**Two personal checks remain pending.** Suggested checks: open FY2025 p.57 and verify revenue 65,179; open p.59 and verify inventory 13,744. Record the value you saw, fiscal year, page/table, date, and any discrepancy in [student_completion.md](student_completion.md). AI source checks are not represented as student checks.
+**Two personal checks confirmed by Linda:** FY2025 p.57 revenue 65,179 and p.59 inventory 13,744. The figures agree with the submitted history and model. See [student_completion.md](student_completion.md) for the recorded confirmation and additional AI reconciliation. No separate check date was supplied.
 
 [2023]: https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/lly-20231231.htm
 [2024]: https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm
