@@ -1,5 +1,9 @@
 # Lab 10 - Eli Lilly (LLY) pro-forma
 
+**Student author and submitter: Linda Li.** This is Linda's individual lab, prepared with AI assistance.
+
+**Review partner: Annika Rao** ([rao229@purdue.edu](mailto:rao229@purdue.edu)). Annika is the review partner, not the author or submitter of this lab.
+
 **Question: What are five years of Eli Lilly's statements worth, built from assumptions I can defend?**
 
 The proposed FY2026-2030 base case produces **$589.21 per diluted share**, with all five years balancing and cash above the $5,000 million floor. This is an annual course scenario, not an investment recommendation. Linda has confirmed her personal filing checks and verification with her real partner. The [completion record](student_completion.md) includes that confirmation, the AI-assisted review account, and separately labeled reflection drafts and practice material.

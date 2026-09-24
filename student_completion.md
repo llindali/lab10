@@ -1,6 +1,8 @@
 # Confirmed checks, partner review, and reflection drafts
 
-Prepared with AI assistance at Linda's request. Linda subsequently confirmed that she personally checked the figures and verified the review with her partner, asking that it be recorded as a real partner account. The personal checks and partner-review status below are recorded on her confirmation. The written review was initially AI-drafted and is retained as a summary, not a verbatim transcript; no partner name or meeting date was supplied. Reflection wording remains an AI-assisted draft.
+**Student author and submitter: Linda Li. Review partner: Annika Rao** ([rao229@purdue.edu](mailto:rao229@purdue.edu)). This is Linda's individual lab, prepared with AI assistance; Annika's role is partner review.
+
+Linda confirmed that she personally checked the figures and verified the review with Annika, asking that it be recorded as a real partner account. The personal checks and partner-review status below are recorded on her confirmation. The written review was initially AI-drafted and is retained as a summary, not a verbatim transcript; no meeting date was supplied. Reflection wording remains an AI-assisted draft.
 
 ## Two personally confirmed filing checks
 
@@ -60,6 +62,6 @@ ABG's 1.8% is a judgment about existing-store growth, whereas the 4.7% reported 
 
 ## Confirmation and scope
 
-Linda's personal filing checks and real partner review are now recorded as confirmed by her. The ABG reciprocal challenge remains an illustrative example because her partner's company/model has not been identified. The initial R&D practice question and reflection drafts remain labeled as preparation; her confirmation does not supply a verbatim exchange, partner identity, or independently authored reflection.
+Linda's personal filing checks and real partner review with Annika Rao are recorded as confirmed by her. The ABG reciprocal challenge remains an illustrative example because Annika's company/model has not been identified. The initial R&D practice question and reflection drafts remain labeled as preparation; the review summary is AI-assisted rather than a verbatim exchange.
 
 [filing]: https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm

@@ -43,7 +43,7 @@ Each row below has the requested three columns; the assumption name is included 
 
 ## Partner review and two-sentence answer
 
-**Confirmed by Linda after verification with her partner.** This account was initially drafted with AI assistance and is retained as a review summary, not a verbatim transcript. Partner name and meeting date were not supplied. Judgment challenged: ending inventory days decline from 453.91 historically to 330 by 2030.
+**Confirmed by Linda Li after verification with her partner, Annika Rao** ([rao229@purdue.edu](mailto:rao229@purdue.edu)). Linda is the student author and submitter; Annika provided partner review. This account was initially drafted with AI assistance and is retained as a review summary, not a verbatim transcript. No meeting date was supplied. Judgment challenged: ending inventory days decline from 453.91 historically to 330 by 2030.
 
 **Challenge:** Why should inventory fall to 330 days while Lilly is expanding production, and what evidence would make you retain approximately 454 days instead?
 
